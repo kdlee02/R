@@ -16,6 +16,7 @@ Apply principal component analysis to identify collinear variable sets.
 Estimate regression coefficients using PCA and ridge regression.
 
 
+
 Task 2: Field Goal Kicking Data Analysis
 
 Fit logistic regression models to predict field goal success rates based on distance.
@@ -23,6 +24,7 @@ Fit logistic regression models to predict field goal success rates based on dist
 Extend models to include league-specific effects using indicator variables.
 
 Evaluate the contribution of higher-order terms and league-specific differences.
+
 
 
 Task 3: Airline Accident Data Analysis
