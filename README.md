@@ -1,6 +1,5 @@
 # Linear Statistical Models using R
 
-Overview
 The docx focuses on applying statistical modeling techniques where key tasks include linear regression, principal component analysis, ridge regression, logistic regression, and possion regression.
 
 ---
